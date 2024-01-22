@@ -22,15 +22,15 @@
 
 该程序统计了你的有效联系人个数和群聊个数，使用微信聊天的时间月份频率分布，你发送的消息类型分布，金钱交易密切的联系人统计...
 
-![3](.\Pictures\3.png)
+![3](./Pictures/3.png)
 
-![2](.\Pictures\2.png)
+![2](./Pictures/2.png)
 
-![4](.\Pictures\4.png)
+![4](./Pictures/4.png)
 
-![5](.\Pictures\5.png)
+![5](./Pictures/5.png)
 
-![1](.\Pictures\1.png)
+![1](./Pictures/1.png)
 
 
 
@@ -45,7 +45,7 @@ pip install pandas
 
 首先需要微信数据库数据，使用**WeChatMsg（留痕）**的导出全部聊天记录，将导出的csv文件放在任意位置均可
 
-![6](.\Pictures\6.png)
+![6](./Pictures/6.png)
 
 下载并打开该库中的`mingwechat.py`文件，将第九行的地址改为你的csv文件地址
 
